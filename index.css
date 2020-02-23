@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    background: rgb(55, 100,144)
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 8rem;
+}
